@@ -5,3 +5,4 @@
 - bootrap
  - PHP
  - MySQL
+ - eu sou gostosooo
